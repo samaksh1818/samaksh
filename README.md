@@ -1,2 +1,3 @@
 # samaksh
-This is my experiment Repository
+This is my experiment Git Repository
+Author = Samaksh Kalal
